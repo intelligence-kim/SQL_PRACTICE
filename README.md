@@ -1,1 +1,1 @@
-SQL 연습
+SQL PRACTICE
